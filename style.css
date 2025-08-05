@@ -1068,7 +1068,7 @@ width: 100%;
     .buy
   {
     position:fixed;
-    top: 88%;
+    top: 91%;
     left:0 ;
 width: 100% !important;
 background-color:white;
@@ -1243,5 +1243,6 @@ opacity: 0;
   padding: 0 200px;
 } 
 }
+
 
 
